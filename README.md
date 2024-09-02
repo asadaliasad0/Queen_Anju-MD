@@ -33,3 +33,6 @@ And Subscribe GAMING RASH and give one star for queen anju.
  - _Deploy using your host._
    </br>
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Mrrashmika/Queen_Anju-MD.git)
+
+***<p align="center"> • [`Tap here for Render tutorial`](https://example.com) </p>***
